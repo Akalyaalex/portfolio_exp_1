@@ -104,10 +104,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:80%"></div>
     </div><br>
-    
-    
-
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+     <button class="w3-button w3-light-grey w3-padding-large w3-section">
       <i class="fa fa-download"></i> Download Resume
     </button>
     
@@ -127,16 +124,12 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           </li>
         </ul>
       </div>
-
-      <div class="w3-half">
+<div class="w3-half">
         <ul class="w3-ul w3-white w3-center w3-opacity w3-hover-opacity-off">
           <li class="w3-dark-grey w3-xlarge w3-padding-32">Pro</li>
           <li class="w3-padding-16">Web Design</li>
           <li class="w3-padding-16">Photography</li>
           <li class="w3-padding-16">Front end development</li>
-         
-         
-          
           </li>
           <li class="w3-light-grey w3-padding-24">
          
@@ -145,13 +138,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       </div>
     <!-- End Grid/Pricing tables -->
     </div>
-    
-    
-  
-
-  
-
-  <!-- Contact Section -->
+   <!-- Contact Section -->
   <div class="w3-padding-64 w3-content w3-text-grey" id="contact">
     <h2 class="w3-text-light-grey">Contact Me</h2>
     <hr style="width:200px" class="w3-opacity">
@@ -176,23 +163,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </form>
   <!-- End Contact Section -->
   </div>
-  
- 
-
-<!-- END PAGE CONTENT -->
+ <!-- END PAGE CONTENT -->
 </div>
-
 </body>
 </html>
 
 ```
-
-
 ## OUTPUT:
 
 ![Web capture_9-6-2023_185816_](https://github.com/Akalyaalex/portfolio_exp_1/assets/114275126/0071ab15-3ee8-4784-a8b4-38838c4990ae)
-
-
 
 ## RESULT:
 
