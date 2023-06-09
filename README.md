@@ -170,7 +170,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 ```
 ## OUTPUT:
-
 ![Web capture_9-6-2023_185816_](https://github.com/Akalyaalex/portfolio_exp_1/assets/114275126/0071ab15-3ee8-4784-a8b4-38838c4990ae)
 
 ## RESULT:
