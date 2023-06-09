@@ -43,12 +43,10 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
 </style>
 <body class="w3-black">
-
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
- 
-  <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
+ <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
   </a>
@@ -65,7 +63,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p>CONTACT</p>
   </a>
 </nav>
-
 <!-- Navbar on small screens (Hidden on medium and large screens) -->
 <div class="w3-top w3-hide-large w3-hide-medium" id="myNavbar">
   <div class="w3-bar w3-black w3-opacity w3-hover-opacity-off w3-center w3-small">
@@ -75,7 +72,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <a href="#contact" class="w3-bar-item w3-button" style="width:25% !important">CONTACT</a>
   </div>
 </div>
-
 <!-- Page Content -->
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
@@ -84,8 +80,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p>java full stack developer.</p>
     <img src="https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg" alt="girl" class="w3-image" width="500" height="500">
   </header>
-
-  <!-- About Section -->
+<!-- About Section -->
   <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
     <h2 class="w3-text-light-grey">My Name</h2>
     <hr style="width:200px" class="w3-opacity">
@@ -107,8 +102,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
      <button class="w3-button w3-light-grey w3-padding-large w3-section">
       <i class="fa fa-download"></i> Download Resume
     </button>
-    
-    <!-- Grid for pricing tables -->
+     <!-- Grid for pricing tables -->
     <h3 class="w3-padding-16 w3-text-light-grey">My Price</h3>
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half w3-margin-bottom">
@@ -117,10 +111,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
           <li class="w3-padding-16">Web Design</li>
           <li class="w3-padding-16">Photography</li>
           <li class="w3-padding-16">Mail Support</li>
-         
           </li>
-          <li class="w3-light-grey w3-padding-24">
-          
+          <li class="w3-light-grey w3-padding-24"> 
           </li>
         </ul>
       </div>
